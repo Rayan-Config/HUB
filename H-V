@@ -24,9 +24,7 @@ vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2086?security=&fp=ch
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.41.190:8443?security=tls&sni=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&path=/?ed%3D2560&host=5-55sfjslf.ifenxiang.cfd&encryption=none#@Daily_Configs
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.22.15.132:8443?security=tls&sni=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&path=/?ed%3D2560&host=5-55sfjslf.ifenxiang.cfd&encryption=none#@amirw_shop_q
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2086?security=&fp=chrome&type=ws&path=/Telegram@WedbazTelsecurity&host=5-55sfjslf.ifenxiang.cfd&encryption=none#@amirw_shop_q
-vless://619b233c-ca8e-54c7-9b5f-8c118b0ab617@5.253.30.11:80?security=&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=vless-grpc&encryption=none#@Daily_Configs
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2086?security=&fp=chrome&type=ws&path=/Telegram@MARAMBASHI_MARAMBASHI&host=5-55sfjslf.ifenxiang.cfd&encryption=none#@Daily_Configs
-vless://619b233c-ca8e-54c7-9b5f-8c118b0ab617@5.253.30.11:80?security=&fp=chrome&type=grpc&serviceName=vless-grpc&encryption=none#mortezatv2020
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2086?security=&fp=chrome&type=ws&path=/Telegram@MARAMBASHI_MARAMBASHI&host=5-55sfjslf.ifenxiang.cfd&encryption=none#@Daily_Configs
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.75.194:8443?security=tls&sni=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&path=/?ed%3D2560&host=5-55sfjslf.ifenxiang.cfd&encryption=none#@Daily_Configs
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.27.94:443?security=tls&sni=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&path=/?ed%3D2560&host=5-55sfjslf.ifenxiang.cfd&encryption=none#@Daily_Configs
@@ -80,7 +78,6 @@ vless://c7d543af-1023-4b96-a698-187c190d3f4c@104.22.56.77:443?security=tls&sni=n
 vless://c7d543af-1023-4b96-a698-187c190d3f4c@104.22.56.77:443?security=tls&sni=nautica.foolvpn.me&fp=chrome&type=ws&path=/47.89.39.186-39251&host=nautica.foolvpn.me&encryption=none#@meli_proxyy
 vless://c7d543af-1023-4b96-a698-187c190d3f4c@104.22.56.77:443?security=tls&sni=nautica.foolvpn.me&fp=chrome&type=ws&path=/47.89.39.186-39251&host=nautica.foolvpn.me&encryption=none#@Daily_Configs
 vless://c7d543af-1023-4b96-a698-187c190d3f4c@104.22.56.77:443?security=tls&sni=nautica.foolvpn.me&fp=chrome&type=ws&path=/47.89.39.186-39251&host=nautica.foolvpn.me&encryption=none#@meli_proxyy
-vless://c7d543af-1023-4b96-a698-187c190d3f4c@104.22.57.77:443?security=tls&sni=nautica.foolvpn.me&fp=chrome&type=ws&path=/47.89.39.186-39251&host=nautica.foolvpn.me&encryption=none#@meli_proxyy
 vless://c7d543af-1023-4b96-a698-187c190d3f4c@104.22.57.77:443?security=tls&sni=nautica.foolvpn.me&fp=chrome&type=ws&path=/47.89.39.186-39251&host=nautica.foolvpn.me&encryption=none#@meli_proxyy
 vless://c7d543af-1023-4b96-a698-187c190d3f4c@104.22.57.77:443?security=tls&sni=nautica.foolvpn.me&fp=chrome&type=ws&path=/47.89.39.186-39251&host=nautica.foolvpn.me&encryption=none#@Daily_Configs
 vless://c7d543af-1023-4b96-a698-187c190d3f4c@104.22.57.77:443?security=tls&sni=nautica.foolvpn.me&fp=chrome&type=ws&path=/47.89.39.186-39251&host=nautica.foolvpn.me&encryption=none#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.22.57.77:443

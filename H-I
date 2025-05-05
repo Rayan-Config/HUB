@@ -13,14 +13,9 @@ vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@104.18.12.149:443?security=tls&sni=
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.17.147.22:2096?security=tls&sni=ScKzAhYz14.qUiCkOrA.OrG&fp=chrome&type=ws&path=/&host=ScKzAhYz14.qUiCkOrA.OrG&encryption=none#@Daily_Configs
 vmess://eyJhZGQiOiI1Ny4xMjkuNjQuMjM4IiwiYWlkIjoiMCIsImhvc3QiOiJrYXBlbGxlbmcuY29tIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkBEYWlseV9Db25maWdzIiwic2N5IjoiYXV0byIsInNuaSI6ImthcGVsbGVuZy5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@209.208.227.229:2096?security=tls&sni=LgUoZjGr14.hAmEcHiRuHaVaSt.cOm&fp=chrome&type=ws&path=/&host=LgUoZjGr14.hAmEcHiRuHaVaSt.cOm&encryption=none#@Daily_Configs
-trojan://klZqKyxq0H@57.128.165.173:1935?security=tls&sni=x1-england-ovh-v2.devefun.net&fp=chrome&type=tcp#@Daily_Configs
-trojan://klZqKyxq0H@57.128.165.173:1935?security=tls&sni=x1-england-ovh-v2.devefun.net&fp=chrome&type=tcp#@Daily_Configs
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.17.147.22:2096?security=tls&sni=ScKzAhYz14.qUiCkOrA.OrG&fp=chrome&type=ws&path=/&host=ScKzAhYz14.qUiCkOrA.OrG&encryption=none#@amirw_shop_q
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#@Daily_Configs
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.17.147.22:2096?security=tls&sni=ScKzAhYz14.qUiCkOrA.OrG&fp=chrome&type=ws&path=/&host=ScKzAhYz14.qUiCkOrA.OrG&encryption=none#@Daily_Configs
 vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@104.18.12.149:443?security=tls&sni=d1.medicaldream.ir&fp=chrome&type=ws&path=/&host=d1.medicaldream.ir&encryption=none#@Daily_Configs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#@Daily_Configs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#@Daily_Configs
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@78.47.141.72:8880?security=&fp=chrome&type=grpc&encryption=none#@Daily_Configs
 vless://f12977e6-d296-4d94-9aaf-d31770b70f84@104.21.69.44:443?security=tls&sni=cr77.hedieh.dpdns.org&fp=chrome&type=ws&path=/&host=cr77.hedieh.dpdns.org&encryption=none#@Daily_Configs
 vmess://eyJhZGQiOiI4NC4yNDcuMTQ4LjE5MiIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiIzY2EzNWUwYS1lNDMwLTQzZmUtOWMxMi0yZTJlZWE3MGY4NzMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ0Mzk2IiwicHMiOiLwn5SSIFZNLVRDUC1OQSDwn4e48J+HrCBTRy04NC4yNDcuMTQ4LjE5Mjo0NDM5NiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=

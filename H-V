@@ -8,8 +8,6 @@ vless://d9deb36e-aa79-409a-ba54-012d69b0f9d7@104.24.182.250:2083?security=tls&sn
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.237:8880?security=&fp=chrome&type=grpc&encryption=none#%F0%9F%94%92%20VL-GRPC-NA%20%F0%9F%87%B1%F0%9F%87%B9%20LT-84.32.25.237:8880
 vless://53249200-30ff-436f-a032-0bb00605f8f9@104.21.35.247:443?security=tls&sni=3edcvb.huangshang2030.dpdns.org&alpn=http/1.1&fp=chrome&type=ws&path=/MgovppNO6WZwOCU5JqXZxjQ5ILc&host=3edcvb.huangshang2030.dpdns.org&encryption=none#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.21.35.247:443
 vless://15298f41-e80b-463a-b85b-0c903258a1c8@104.16.40.28:443?security=tls&sni=d5.medicaltreatment.ir&fp=chrome&type=ws&path=sinavm-sinavm/?ed%3D2560&host=d5.medicaltreatment.ir&encryption=none#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.16.40.28:443
-vless://c4fa89d4-fcb9-48ba-adbc-665181cc817f@135.148.142.30:443?security=tls&sni=147135010072.sec21org.com&fp=chrome&type=tcp&encryption=none#%F0%9F%94%92%20VL-TCP-TLS%20%F0%9F%87%BA%F0%9F%87%B8%20US-135.148.142.30:443
-vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@15.204.150.39:443?security=tls&sni=147135001178.sec22org.com&fp=chrome&type=tcp&encryption=none#%F0%9F%94%92%20VL-TCP-TLS%20%F0%9F%87%BA%F0%9F%87%B8%20US-15.204.150.39:443
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.19:8880?security=&fp=chrome&type=grpc&encryption=none#%F0%9F%94%92%20VL-GRPC-NONE%20%F0%9F%87%B1%F0%9F%87%B9%20LT-84.32.9.19:8880
 vless://337f33aa-2cb2-4a3e-8edf-ffe56878fc12@128.140.59.104:2083?security=tls&sni=google.com&alpn=h3,h2,http/1.1&fp=chrome&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%94%92%20VL-TCP-TLS%20%F0%9F%87%A9%F0%9F%87%AA%20DE-128.140.59.104:2083
 vless://53249200-30ff-436f-a032-0bb00605f8f9@172.67.181.193:443?security=tls&sni=3edcvb.huangshang2030.dpdns.org&alpn=http/1.1&fp=chrome&type=ws&path=/MgovppNO6WZwOCU5JqXZxjQ5ILc&host=3edcvb.huangshang2030.dpdns.org&encryption=none#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.67.181.193:443
@@ -22,7 +20,6 @@ vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.100:443?security=tls&sn
 vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@172.67.153.156:8443?security=tls&sni=ovhwuxian.pai50288.uk&fp=chrome&type=ws&path=/57ba2ab1&host=ovhwuxian.pai50288.uk&encryption=none#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.67.153.156:8443
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.212:8880?security=&fp=chrome&type=grpc&encryption=none#%F0%9F%94%92%20VL-GRPC-NONE%20%F0%9F%87%B1%F0%9F%87%B9%20LT-84.32.9.212:8880
 vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@104.18.12.149:443?security=tls&sni=d1.medicaldream.ir&fp=chrome&type=ws&path=/&host=d1.medicaldream.ir&encryption=none#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.18.12.149:443
-vless://ea286109-d20f-415e-849e-4af20ab04b65@15.204.191.43:443?security=tls&sni=147135001195.sec22org.com&alpn=h2,http/1.1&fp=chrome&type=tcp&encryption=none#%F0%9F%94%92%20VL-TCP-TLS%20%F0%9F%87%BA%F0%9F%87%B8%20US-15.204.191.43:443
 vless://2127b978-c320-4d31-8045-dfb9a643fd54@104.19.54.50:8080?security=&fp=chrome&type=ws&path=/@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy?ed%3D2048&host=www.speedtest.net.www.zula.ir.cloudflare.com.developsp.ir.svgspeedtest.net.&encryption=none#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.19.54.50:8080
 vless://10d9df89-9a20-4110-9711-bca119490ee9@103.160.204.37:2086?security=&fp=chrome&type=ws&path=/TM-@AZARBAYJAB1&host=masaleini.mahsaamini.dpdns.org&encryption=none#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-103.160.204.37:2086
 vless://b9e98405-0454-474e-a5b3-1d6e164ba40d@45.144.51.195:35036?security=&fp=chrome&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&encryption=none#%F0%9F%94%92%20VL-GRPC-NA%20%F0%9F%87%B5%F0%9F%87%B1%20PL-45.144.51.195:35036
@@ -41,13 +38,11 @@ vless://588f094b-431b-422c-b80b-007945037072@150.241.101.16:443?security=tls&sni
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@78.47.141.72:8880?security=&fp=chrome&type=grpc&encryption=none
 vless://588f094b-431b-422c-b80b-007945037072@103.231.73.214:443?security=tls&sni=lv01.abvpn.ru&fp=chrome&type=ws&path=/websocket&host=lv01.abvpn.ru&encryption=none
 vless://39a91eaf-a379-4fff-a9c8-1cb01442b76f@104.31.16.95:2053?security=tls&sni=ir.akcovufun.ir&fp=chrome&type=ws&path=/&host=ir.akcovufun.ir&encryption=none
-vless://87a3bcda-e691-48e0-bff5-1661182e63fa@172.82.67.158:36716?security=reality&sni=yahoo.com&fp=chrome&pbk=rOV46n6ilJBE_XGk-Xt07xcHQ6V7DpNpGfLlfG89jV8&sid=704de09b&type=tcp&flow=xtls-rprx-vision&encryption=none
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.149:8880?security=&fp=chrome&type=grpc&encryption=none
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.114:8880?security=&fp=chrome&type=grpc&encryption=none
 vless://588f094b-431b-422c-b80b-007945037072@45.150.65.53:443?security=tls&sni=usa01.abvpn.ru&fp=chrome&type=ws&path=/websocket&host=usa01.abvpn.ru&encryption=none
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.237:8880?security=&fp=chrome&type=grpc&encryption=none
 vless://588f094b-431b-422c-b80b-007945037072@89.23.103.150:443?security=tls&sni=nl08.abvpn.ru&fp=chrome&type=ws&path=/websocket&host=nl08.abvpn.ru&encryption=none
-vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@15.204.150.39:443?security=tls&sni=147135001178.sec22org.com&fp=chrome&type=tcp&encryption=none
 vless://a040115b-aaef-4851-9ba0-d558bba55359@185.140.211.50:2052?security=&fp=chrome&type=grpc&serviceName=vless-grpc&encryption=none
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.141:8880?security=&fp=chrome&type=grpc&encryption=none
 vless://7f3776d8-65bd-4767-a995-34fb4e0937e2@104.16.131.9:443?security=tls&sni=worker.nexvivagroup.com&fp=chrome&type=ws&host=worker.nexvivagroup.com&encryption=none
@@ -64,8 +59,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@167.235.238.146:8880?security=&fp=c
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@167.235.238.146:8880?security=&fp=chrome&type=grpc&encryption=none#@Daily_Configs
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@167.235.238.146:8880?security=&fp=chrome&type=grpc&encryption=none#@Daily_Configs
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@167.235.238.146:8880?security=&fp=chrome&type=grpc&encryption=none#@Daily_Configs
-vless://45e91c56-0dbd-41a5-a654-287a53fc0ea4@opticalize.com.opticalize.com:8448?security=&fp=chrome&type=tcp&encryption=none#%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D9%87%D8%A7
-vless://45e91c56-0dbd-41a5-a654-287a53fc0ea4@opticalize.com.opticalize.com:8448?security=&fp=chrome&type=tcp&encryption=none#@Daily_Configs
 vless://15298f41-e80b-463a-b85b-0c903258a1c8@fonts.net:443?security=tls&sni=d5.medicaltreatment.ir&fp=chrome&type=ws&path=sinavm-sinavm/?ed%3D2560&host=d5.medicaltreatment.ir&encryption=none#@Daily_Configs
 vless://98e878cf-f55d-43a3-8546-82b26034d6b0@104.17.126.255:2087?security=tls&sni=in-1-gss.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=in-1-gss.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20GSS%20-%20WSCT-111%20-%20IN%20-%20I%20-%20%E2%98%A2%EF%B8%8F%20t.me/Rayan_Config
 vless://98e878cf-f55d-43a3-8546-82b26034d6b0@162.159.134.132:2087?security=tls&sni=in-1-gss.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=in-1-gss.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20GSS%20-%20WSCT-111%20-%20IN%20-%20I%20-%20%E2%98%A2%EF%B8%8F%20t.me/Rayan_Config

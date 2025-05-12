@@ -5,7 +5,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.108:8880?security=&fp=chr
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@78.47.141.72:8880?security=&fp=chrome&type=grpc&encryption=none
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.237:8880?security=&fp=chrome&type=grpc&encryption=none
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.114:8880?security=&fp=chrome&type=grpc&encryption=none
-vless://39a91eaf-a379-4fff-a9c8-1cb01442b76f@104.31.16.95:2053?security=tls&sni=ir.akcovufun.ir&fp=chrome&type=ws&path=/&host=ir.akcovufun.ir&encryption=none
 vless://588f094b-431b-422c-b80b-007945037072@2.56.178.47:443?security=tls&sni=ru05.abvpn.ru&fp=chrome&type=ws&path=/websocket&host=ru05.abvpn.ru&encryption=none
 vless://588f094b-431b-422c-b80b-007945037072@45.150.65.53:443?security=tls&sni=usa01.abvpn.ru&fp=chrome&type=ws&path=/websocket&host=usa01.abvpn.ru&encryption=none
 vless://588f094b-431b-422c-b80b-007945037072@89.23.118.93:443?security=tls&sni=ru01.abvpn.ru&fp=chrome&type=ws&path=/websocket&host=ru01.abvpn.ru&encryption=none

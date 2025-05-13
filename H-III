@@ -3,7 +3,6 @@ vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?security=tls&sni=
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.7:8880?security=&fp=chrome&type=grpc&encryption=none#%F0%9F%94%92%20VL-GRPC-NA%20%F0%9F%87%B1%F0%9F%87%B9%20LT-84.32.9.7:8880
 vless://f38e1473-0bb8-4190-8d49-ba1aaaf4e264@157.180.16.69:2087?security=tls&sni=test.gamebestir0.ir&alpn=h2&allowInsecure=1&fp=chrome&type=grpc&encryption=none#%F0%9F%94%92%20VL-GRPC-TLS%20%F0%9F%87%AB%F0%9F%87%AE%20FI-157.180.16.69:2087
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.37:8880?security=&fp=chrome&type=grpc&encryption=none#%F0%9F%94%92%20VL-GRPC-NA%20%F0%9F%87%B1%F0%9F%87%B9%20LT-84.32.9.37:8880
-vless://0a44145f-59dc-4e5b-a233-677b97f5114c@51.81.36.78:443?security=tls&sni=147135011033.sec21org.com&alpn=h2,http/1.1&fp=chrome&type=tcp&encryption=none#%F0%9F%94%92%20VL-TCP-TLS%20%F0%9F%87%BA%F0%9F%87%B8%20US-51.81.36.78:443
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.9.172:8880?security=&fp=chrome&type=grpc&encryption=none#%F0%9F%94%92%20VL-GRPC-NA%20%F0%9F%87%AB%F0%9F%87%B7%20FR-94.131.9.172:8880
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.17:8880?security=&fp=chrome&type=grpc&encryption=none#%F0%9F%94%92%20VL-GRPC-NONE%20%F0%9F%87%B1%F0%9F%87%B9%20LT-84.32.9.17:8880
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@104.17.147.22:2096?security=tls&sni=Jx19SzLyFv.SaKhRe.InFo&alpn=h3h2&fp=chrome&type=ws&path=/&host=Jx19SzLyFv.SaKhRe.InFo&encryption=none#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.17.147.22:2096

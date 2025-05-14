@@ -1,10 +1,8 @@
-
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.114:8880?security=&fp=chrome&type=grpc&encryption=none
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.47:8880?security=&fp=chrome&type=grpc&encryption=none
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?security=&fp=chrome&type=grpc&encryption=none
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.9.172:8880?security=&fp=chrome&type=grpc&encryption=none
 vless://9aed32d7-3556-48a4-95f8-e82dcc2e1b54@57.128.178.253:443?security=tls&sni=en.linceedab.com&alpn=http/1.1&fp=safari&type=tcp&encryption=none
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.253:8880?security=&fp=chrome&type=grpc&encryption=none
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.163:8880?security=&fp=chrome&type=grpc&encryption=none
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.149:8880?security=&fp=chrome&type=grpc&encryption=none
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.170:8880?security=&fp=chrome&type=grpc&encryption=none
@@ -19,14 +17,12 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.109:8880?security=&fp=chr
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.181:8880?security=&fp=chrome&type=grpc&encryption=none
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.162:8880?security=&fp=chrome&type=grpc&encryption=none
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.128:8880?security=&fp=chrome&type=grpc&encryption=none
-vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@45.82.251.69:1001?security=reality&sni=telewebion.com&fp=chrome&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&sid=5fab0deb&type=tcp&encryption=none
 vless://588f094b-431b-422c-b80b-007945037072@103.231.73.214:443?security=tls&sni=lv01.abvpn.ru&fp=chrome&type=ws&path=/websocket&host=lv01.abvpn.ru&encryption=none
 vless://588f094b-431b-422c-b80b-007945037072@89.23.118.93:443?security=tls&sni=ru01.abvpn.ru&fp=chrome&type=ws&path=/websocket&host=ru01.abvpn.ru&encryption=none
 vless://588f094b-431b-422c-b80b-007945037072@95.164.47.60:443?security=tls&sni=de02.abvpn.ru&fp=chrome&type=ws&path=/websocket&host=de02.abvpn.ru&encryption=none
 vless://588f094b-431b-422c-b80b-007945037072@45.150.65.53:443?security=tls&sni=usa01.abvpn.ru&fp=chrome&type=ws&path=/websocket&host=usa01.abvpn.ru&encryption=none
 vless://588f094b-431b-422c-b80b-007945037072@2.56.178.47:443?security=tls&sni=ru05.abvpn.ru&fp=chrome&type=ws&path=/websocket&host=ru05.abvpn.ru&encryption=none
 vless://a2691bdd-7989-4e7e-9c44-302e360c021f@185.208.77.113:14040?security=&fp=chrome&type=ws&path=/&encryption=none
-vless://e12c6b99-f242-4c43-8411-edb7b333c79a@5.75.205.247:28495?security=reality&sni=www.fra-shop.ir&fp=chrome&pbk=wIoY1J6RAbUkFMLu9mENmgOSerWCd7oucJ-_kfCfbHw&sid=4365d0c5ae1b&type=tcp&encryption=none
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.78:8880?security=&fp=chrome&type=grpc&encryption=none
 vless://588f094b-431b-422c-b80b-007945037072@46.226.162.42:443?security=tls&sni=gbr01.abvpn.ru&fp=chrome&type=ws&path=/websocket&encryption=none
 vless://a2691bdd-7989-4e7e-9c44-302e360c021f@185.208.77.113:14040?security=&fp=chrome&type=ws&path=/&encryption=none
@@ -51,7 +47,6 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.105:8880?security=&fp=chr
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.146:8880?security=&fp=chrome&type=grpc&encryption=none
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.165:8880?security=&fp=chrome&type=grpc&encryption=none
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.166:8880?security=&fp=chrome&type=grpc&encryption=none
-vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@45.82.251.69:1001?security=reality&sni=telewebion.com&fp=chrome&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&sid=5fab0deb&type=tcp&encryption=none
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.176:8880?security=&fp=chrome&type=grpc&encryption=none
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.167:8880?security=&fp=chrome&type=grpc&encryption=none
 vless://588f094b-431b-422c-b80b-007945037072@45.150.65.53:443?security=tls&sni=usa01.abvpn.ru&fp=chrome&type=ws&path=/websocket&host=usa01.abvpn.ru&encryption=none
@@ -71,7 +66,6 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.147:8880?security=&fp=chr
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.183:8880?security=&fp=chrome&type=grpc&encryption=none
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.161:8880?security=&fp=chrome&type=grpc&encryption=none
 vless://588f094b-431b-422c-b80b-007945037072@2.56.178.47:443?security=tls&sni=ru05.abvpn.ru&fp=chrome&type=ws&path=/websocket&host=ru05.abvpn.ru&encryption=none
-vless://98f48d81-da83-49d2-a1c1-547c2a57798d@104.17.148.22:2052?security=&fp=chrome&type=ws&path=/vless&host=sPeedtest2.sbs.cavl.cytun.xyz&encryption=none
 vless://6543593a-f55e-422c-8ffd-b6d930b1808c@157.180.93.74:20000?security=reality&sni=ebookiran.ir&fp=chrome&pbk=X2l8AS8XhUKxyskDWHA-gRhvCO3LTGqWEs1GYIpyfEo&sid=d525279f3c6c0ef5&type=grpc&serviceName=Tok&encryption=none
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@78.47.141.72:8880?security=&fp=chrome&type=grpc&encryption=none
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.114:8880?security=&fp=chrome&type=grpc&encryption=none
@@ -91,6 +85,7 @@ vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@172.67.153.156:8443?security=tls&sn
 vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@172.67.153.156:8443?security=tls&sni=ovhwuxian.pai50288.uk&fp=chrome&type=ws&path=/57ba2ab1&host=ovhwuxian.pai50288.uk&encryption=none#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.67.153.156:8443
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.157:443?security=tls&sni=147135004002.sec20org.com&fp=chrome&type=tcp&encryption=none#%F0%9F%94%92%20VL-TCP-TLS%20%F0%9F%87%BA%F0%9F%87%B8%20US-135.148.74.157:443
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.173.104:8880?security=&fp=chrome&type=grpc&encryption=none#%F0%9F%94%92%20VL-GRPC-NA%20%F0%9F%87%B1%F0%9F%87%B9%20LT-5.199.173.104:8880
+
 vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@104.17.132.35:443?security=tls&sni=1.leila.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=1.leila.dpdns.org&encryption=none#RA---DE
 vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@108.162.195.4:443?security=tls&sni=1.leila.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=1.leila.dpdns.org&encryption=none#RA---DE
 vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@198.41.223.200:443?security=tls&sni=1.leila.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=1.leila.dpdns.org&encryption=none#RA---DE

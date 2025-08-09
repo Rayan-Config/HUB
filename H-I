@@ -1,18 +1,12 @@
 hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.54.57.90:989
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3UFBhU3d4cDNMTGdKbVdjcFNjbEs2@85.208.139.158:25607
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpncWtVQ3ZtZU9UZ2hZSlhGMVlJdWs1@71.19.148.74:443
 vless://11402c34-7f90-485f-a218-ade69f314f49@store-static-portal.cyberscaler.net:10082?security=&fp=chrome&type=tcp&path=/&headerType=http&host=cdnjs.cloudflare.com&encryption=none
-vless://1f054e40-a9bc-4cd3-b6d1-4e0dc3470ed6@104.18.36.234:8080?security=&fp=chrome&type=httpupgrade&path=/22496/nextlife&host=cdn4.farsiblockchain.com&encryption=none
 vless://c30fee5c-a1ba-4828-8c6b-ac509d7342e3@store-static-portal.cyberscaler.net:10082?security=&fp=chrome&type=tcp&path=/&headerType=http&host=cdnjs.cloudflare.com&encryption=none
-vless://1f054e40-a9bc-4cd3-b6d1-4e0dc3470ed6@104.16.14.211:8080?security=&fp=chrome&type=httpupgrade&path=/22496/nextlife&host=cdn4.farsiblockchain.com&encryption=none
 vless://6e812804-b0e8-4eff-9c2e-96c6fed96f1b@185.234.66.81:443?security=tls&fp=chrome&type=ws&path=/lkjdasws&encryption=none
 vless://1lpxy6haqm@1lpxy6haqm-451516713-direct.zamam.co:443?security=tls&sni=1lpxy6haqm-451516713-direct.zamam.co&alpn=h2,http/1.1&fp=randomized&type=tcp&flow=xtls-rprx-vision&encryption=none
-vless://1f054e40-a9bc-4cd3-b6d1-4e0dc3470ed6@45.131.4.146:8080?security=&fp=chrome&type=httpupgrade&path=/22496/nextlife&host=cdn4.farsiblockchain.com&encryption=none
 vless://986783c3-0225-4f4d-9c29-e7c75c8b8c80@static-edge-front.deepcloudview.com:443?security=reality&sni=firebase.googleapis.com&fp=chrome&pbk=b-jISQAdIIxv6MeoirMHu_MSRdUCriKY5v8vvszN6BA&sid=2d3bb9138f&spx=/v1/projects/init&type=tcp&encryption=none
 vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&sni=loCal.rogsoftwaregroup.com&alpn=h3,h2,http/1.1&fp=chrome&type=tcp&encryption=none
-vless://ff839db0-857b-4e79-87e6-f654b70f5653@91.107.188.161:10002?security=&fp=chrome&type=tcp&path=/&headerType=http&host=soft98.ir&encryption=none
-vless://1f054e40-a9bc-4cd3-b6d1-4e0dc3470ed6@94.140.0.174:8080?security=&fp=chrome&type=httpupgrade&path=/22496/nextlife&host=cfhdnl.clockdeny2.eu&encryption=none
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.5:8443?security=tls&fp=chrome&type=ws&path=/&encryption=none
 vless://4ad29f1b-2cea-4ddc-b856-fab1ff141ac6@brilliant-knowledge.seotoolsforyou.co.uk:80?security=&fp=chrome&type=ws&path=/&encryption=none
 vless://a3151e51-8945-4cd4-9db7-6729bc551c63@cdn-assets-edge.cyberscaler.net:80?security=&fp=chrome&type=tcp&headerType=http&host=cdnjs.cloudflare.com&encryption=none
@@ -25,7 +19,6 @@ vless://7031e57a-80e6-404e-b723-7c8bd4788030@ecobrg.drinfoo.com:4443?security=tl
 vless://8e0ecf39-59b2-4324-931e-d80eb1f3df14@edge-gw-store1.cyberscaler.net:443?security=reality&sni=cdn.jsdelivr.net&fp=chrome&pbk=zMeFpcu-ppUKh_am7bNYWtLehvtvhjocEPP8efg1Jg4&sid=13f10f56&spx=/npm/vue@2.6.14&type=tcp&encryption=none
 vless://26bb41d8-7708-4a08-ab6b-41f5c509915a@edge-gw-store1.cyberscaler.net:443?security=reality&sni=cdn.jsdelivr.net&fp=chrome&pbk=zMeFpcu-ppUKh_am7bNYWtLehvtvhjocEPP8efg1Jg4&sid=13f10f56&spx=/npm/vue@2.6.14&type=tcp&encryption=none
 vless://9f6b70a1-ae9a-49ac-b9bd-0e41c99ca23c@edge-resources.cyberscaler.net:8280?security=&fp=chrome&type=tcp&headerType=http&host=assets.global.fastly.net&encryption=none
-vless://f09cf8ad-d237-4fc2-86e7-c04810ccee94@eng2.worldunlocked.org:443?security=reality&sni=yahoo.com&fp=random&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none
 vless://0d9a6872-cc1b-4a1d-97c0-b26cfb0a2fab@fonts-edge.cyberscaler.net:3001?security=reality&sni=fonts.googleapis.com&fp=chrome&pbk=woGECOY0E1cD6wr7zW0ZZPzzCCgF_N0iDMFzfzdfowg&sid=b7bfcb5873c93a&spx=/cdn-assets-v8&type=tcp&encryption=none
 vless://935c990a-9bcc-484b-86a2-2a402f9ad1d4@grumpy-building.seotoolsforyou.co.uk:80?security=&fp=chrome&type=ws&path=/&encryption=none
 vless://06db78c4-fce2-406b-8d40-16f8c644f0ea@gstatic-edge-gw01.cyberscaler.net:2087?security=reality&sni=fonts.gstatic.com&fp=safari&pbk=Zi9WQ3IxyvROG0dBrUVIPoi-3N2qoFQT_pfijQU7iDE&sid=567e&spx=/cdn-assets-v2&type=tcp&encryption=none
@@ -39,8 +32,6 @@ vless://26e06c13-56ec-41d3-a750-d8f070053306@simonil.zarghamportal.ir:2095?secur
 vless://71068ecf-9826-4ab6-9757-c8d05c0338ae@static-edge-front.deepcloudview.com:443?security=reality&sni=firebase.googleapis.com&fp=chrome&pbk=b-jISQAdIIxv6MeoirMHu_MSRdUCriKY5v8vvszN6BA&sid=2d3bb9138f&spx=/v1/projects/init&type=tcp&encryption=none
 vless://242019e5-e125-4f22-86ce-1b45f418cec4@static-edge-store2.cyberscaler.net:443?security=reality&sni=ajax.googleapis.com&fp=chrome&pbk=3FkZrD191IZ1yoo4kxtAUjQXOAuykaOSzxRAhAKKEX0&sid=229134&spx=/cdn-assets-v2&type=tcp&encryption=none
 vless://3037258f-0104-4f35-95bb-543fdc08f9df@static-media.cyberscaler.net:8080?security=&fp=chrome&type=tcp&path=/index.js&headerType=http&host=cdnjs.cloudflare.com&encryption=none
-vmess://eyJhZGQiOiIxMDQuMTYuNjkuMyIsImFpZCI6IjAiLCJob3N0IjoiY2RuNC5mYXJzaWJsb2NrY2hhaW4uY29tIiwiaWQiOiJjZjFmYzU5Zi0yN2M5LTQyYjctYTNiNC04NWIwNmVlOWNmZTciLCJuZXQiOiJ3cyIsInBhdGgiOiIvMjAzODYvbmVYdExpZmUiLCJwb3J0IjoiODA4MCIsInBzIjoiIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiIxMDQuMjEuMjQuMTgwIiwiYWlkIjoiMCIsImhvc3QiOiJjZmhkbmwuY2xvY2tkZW55Mi5ldSIsImlkIjoiY2YxZmM1OWYtMjdjOS00MmI3LWEzYjQtODViMDZlZTljZmU3IiwibmV0Ijoid3MiLCJwYXRoIjoiLzIwMzg2L25lWHRMaWZlIiwicG9ydCI6IjgwODAiLCJwcyI6IiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vmess://eyJhZGQiOiI1Ny4xMjkuMjQuMTI1IiwiYWlkIjoiMCIsImhvc3QiOiJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IiIsInNjeSI6ImF1dG8iLCJzbmkiOiJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJucG1qcy5jb20iLCJhaWQiOiIwIiwiaG9zdCI6ImpyZ2h4cXh5b3ktNTE4MjM3MTUxLnphbWFtLmNvIiwiaWQiOiJqcmdoeHF4eW95IiwibmV0Ijoid3MiLCJwYXRoIjoiL2Rvd25sb2FkL2NkbiIsInBvcnQiOiI4MDgwIiwicHMiOiIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vmess://eyJhZGQiOiI1Ny4xMjkuMjUuMjUiLCJhaWQiOiIwIiwiaG9zdCI6ImYua2hpTEVpLmNvTSIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiIiLCJzY3kiOiJhdXRvIiwic25pIjoiZi5raGlsZWkuY29tIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=

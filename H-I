@@ -23,7 +23,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.147.142:8880?security=&fp=ch
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.195:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2036
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.163:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2037
 vless://60216396-9001-451a-aa7b-8e57bb4c6b50@195.42.233.135:443?security=tls&fp=chrome&type=ws&path=/pfrlouws&encryption=none#@Rayan_Config%2039
-vless://54559d31-a4f0-4648-beeb-8323045a36c8@87.107.9.178:4414?security=&fp=chrome&type=tcp&headerType=http&host=varzesh3.com&encryption=none#@Rayan_Config%2040
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.253:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2043
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.19:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2044
 vless://3a08182c-ef44-4137-afac-12d2f58994e6@185.242.87.140:443?security=tls&fp=chrome&type=ws&path=/hxwdnrws&encryption=none#@Rayan_Config%2046

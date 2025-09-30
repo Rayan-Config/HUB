@@ -4,7 +4,6 @@ hy2://lHoYmNZmLe@84.32.34.81:28777?obfs=salamander&obfs-password=wcancmaocnewriv
 hy2://dongtaiwang.com@208.87.243.187:22222?insecure=1#@Rayan_Config%205
 hy2://Yet-Another-Public-Config-1@206.71.158.37:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#@Rayan_Config%207
 hy2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@[2001:bc8:1640:50eb:dc00:ff:fe57:dd6f]:443?obfs=salamander&obfs-password=FnFgQIckcMRtKq7i&mport=50000-60000&insecure=1&sni=Ab.ac#@Rayan_Config%208
-hy2://b96e7c07-78eb-40a1-89ad-de3d33dac98b@[2001:470:1f15:728:6a5a:ce2:7583:1]:10015?insecure=1#@Rayan_Config%209
 hy2://Yet-Another-Public-Config-1@206.71.158.37:36600?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#@Rayan_Config%2010
 hy2://dongtaiwang.com@208.87.243.187:22222?insecure=1&sni=www.bing.com#@Rayan_Config%2011
 hy2://lHoYmNZmLe@84.32.34.81:53713?obfs=salamander&obfs-password=uvahwuicbhwabhvlhv&insecure=1#@Rayan_Config%2012
@@ -66,7 +65,6 @@ vless://5342a980-50a4-4daa-9c45-e83f2ebab024@141.227.174.221:18409?security=&fp=
 vless://4e3c4cb5-325b-495d-aa6b-b1ad09ed72d0@141.227.168.93:40114?security=&fp=chrome&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&encryption=none#@Rayan_Config%2084
 vless://7bd98eb6-5408-492c-a9f2-54776a68aeb6@141.227.166.78:35728?security=&fp=chrome&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&encryption=none#@Rayan_Config%2085
 vless://dd75ec90-541f-4150-8784-6095381c9894@141.227.160.163:44606?security=&fp=chrome&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&encryption=none#@Rayan_Config%2086
-vless://6f93e5b7-2188-45ac-91e3-71e8909c225e@141.227.140.168:45946?security=&fp=chrome&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&encryption=none#@Rayan_Config%2087
 vless://b6977b89-c21a-46b3-ac1c-6e6dac52939a@141.227.134.24:12393?security=&fp=chrome&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&encryption=none#@Rayan_Config%2088
 vless://bbb7af93-94f1-4ad7-8a4d-2b674bea8922@135.125.88.66:37612?security=&fp=chrome&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&encryption=none#@Rayan_Config%2090
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.69:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2091
@@ -84,8 +82,6 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.180:8880?security=&fp=chr
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.142:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20106
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.114:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20107
 vless://678a8311-6184-4a1f-a651-84be3cc82e37@45.45.218.166:21275?security=tls&sni=ula347.tiri-viri.com&fp=chrome&type=ws&path=/&host=ula347.tiri-viri.com&encryption=none#@Rayan_Config%20108
-vless://1lpxy6haqm@45.15.167.13:443?security=tls&sni=1lpxy6haqm-451516713-direct.zamam.co&alpn=h2,http/1.1&fp=randomized&type=tcp&flow=xtls-rprx-vision&encryption=none#@Rayan_Config%20109
-vless://1lpxy6haqm@45.15.167.13:443?security=tls&sni=1lpxy6haqm-451516713-direct.zamam.co&alpn=h2,http/1.1&fp=chrome&type=tcp&flow=xtls-rprx-vision&encryption=none#@Rayan_Config%20110
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.144.28.5:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20111
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.147.74:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20112
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.147.142:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20113

@@ -16,7 +16,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@91.228.10.89:8880?security=&fp=chro
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.218.93.159:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2020
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.177:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2021
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.208.110.41:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2022
-vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&sni=loCal.rogsoftwaregroup.com&alpn=h3,h2,http/1.1&fp=chrome&type=tcp&encryption=none#@Rayan_Config%2024
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.129:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2025
 vless://a42343e4-c498-42b7-8361-c03a36e7a5fb@46.62.220.103:27802?security=tls&sni=offged.sahandconfig.ir&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=Smxhabwh&encryption=none#@Rayan_Config%2026
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.108:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2027
@@ -37,7 +36,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.104:8880?security=&fp=ch
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.105:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2057
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.149:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2058
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.141:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2060
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.248:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2062
 vless://35b0de8b-b156-43ff-a0e6-59f1018f7adb@185.242.87.162:443?security=tls&sni=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&fp=chrome&type=ws&path=/holhclws&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&encryption=none#@Rayan_Config%2067
 vless://35b0de8b-b156-43ff-a0e6-59f1018f7adb@185.242.87.162:443?security=tls&fp=chrome&type=ws&path=/holhclws?ed%3D2048@V2Gatee--V2Gatee--V2Gatee--V2Gatee-V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee&encryption=none#@Rayan_Config%2068
 vless://35b0de8b-b156-43ff-a0e6-59f1018f7adb@185.242.87.162:443?security=tls&allowInsecure=1&fp=chrome&type=ws&path=/holhclws&encryption=none#@Rayan_Config%2069

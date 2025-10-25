@@ -29,11 +29,8 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.142.55:8880?security=&fp=chro
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.94:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2038
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.146:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2040
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.219:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2041
-vless://7f5c3ff3-c113-4379-812b-c5733f47d4e1@193.46.81.151:49330?security=reality&sni=miro.com&fp=chrome&pbk=Dee9YE139lZpb4V3QytB8DvHY3nTCnEXzk2IjvMLHi8&sid=b3&type=tcp&encryption=none#@Rayan_Config%2042
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.119:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2047
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.98:80?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2048
-vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.94:80?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2049
-vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.20:80?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2050
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.97:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2051
 vless://b5e8bfe7-6cdb-402d-b243-1e0f53ebb582@185.234.66.82:443?security=tls&fp=chrome&type=ws&path=/jzmdpvws?ed%3D2048HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot&encryption=none#@Rayan_Config%2054
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.104:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2055
@@ -41,7 +38,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.105:8880?security=&fp=ch
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.149:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2058
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.141:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2060
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.248:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2062
-vless://6f6e8f09-c1b3-48fd-ab00-18f921d875ef@104.21.36.57:443?security=tls&sni=profit.fullmargintraders.com&fp=chrome&type=ws&path=/wsv/6f6e8f09-c1b3-48fd-ab00-18f921d875ef&host=profit.fullmargintraders.com&encryption=none#@Rayan_Config%2065
 vless://35b0de8b-b156-43ff-a0e6-59f1018f7adb@185.242.87.162:443?security=tls&sni=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&fp=chrome&type=ws&path=/holhclws&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&encryption=none#@Rayan_Config%2067
 vless://35b0de8b-b156-43ff-a0e6-59f1018f7adb@185.242.87.162:443?security=tls&fp=chrome&type=ws&path=/holhclws?ed%3D2048@V2Gatee--V2Gatee--V2Gatee--V2Gatee-V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee&encryption=none#@Rayan_Config%2068
 vless://35b0de8b-b156-43ff-a0e6-59f1018f7adb@185.242.87.162:443?security=tls&allowInsecure=1&fp=chrome&type=ws&path=/holhclws&encryption=none#@Rayan_Config%2069
@@ -63,7 +59,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.45:8880?security=&fp=chro
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.26:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2085
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.15:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2086
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.155:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2087
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.153.82:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2088
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.208.110.38:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2089
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.208.110.205:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2090
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.246.85.62:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2091
@@ -116,7 +111,6 @@ vmess://eyJhZGQiOiI1Ny4xMjkuMjguMjE2IiwiYWlkIjoiMCIsImhvc3QiOiJmYXBlbmcub3JnIiwi
 vmess://eyJhZGQiOiI1Ny4xMjkuMjguMjE1IiwiYWlkIjoiMCIsImhvc3QiOiJzZXJrYXQub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQFJheWFuX0NvbmZpZyAxNTEiLCJzY3kiOiJhdXRvIiwic25pIjoic2Vya2F0Lm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiI1Ny4xMjkuMjguMjEzIiwiYWlkIjoiMCIsImhvc3QiOiJmYXBlbmcub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQFJheWFuX0NvbmZpZyAxNTIiLCJzY3kiOiJhdXRvIiwic25pIjoiZmFwZW5nLm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiI1Ny4xMjkuMjguMjEyIiwiYWlkIjoiMCIsImhvc3QiOiJmYXBlbmcub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQFJheWFuX0NvbmZpZyAxNTMiLCJzY3kiOiJhdXRvIiwic25pIjoiZmFwZW5nLm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiI1Ny4xMjkuMjUuMjMiLCJhaWQiOiIwIiwiaG9zdCI6InlpY2h1ZW5nLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkBSYXlhbl9Db25maWcgMTU0Iiwic2N5IjoiYXV0byIsInNuaSI6InlpY2h1ZW5nLm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiI1Ny4xMjkuMjQuMTMxIiwiYWlkIjoiMCIsImhvc3QiOiJrYW1wb25nLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkBSYXlhbl9Db25maWcgMTU1Iiwic2N5IjoiYXV0byIsInNuaSI6ImthbXBvbmcub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vmess://eyJhZGQiOiI1Ny4xMjkuMjQuMTMxIiwiYWlkIjoiMSIsImhvc3QiOiJrYW1wb25nLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkBSYXlhbl9Db25maWcgMTU2Iiwic2N5IjoiYXV0byIsInNuaSI6ImthbXBvbmcub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiI1Ny4xMjkuMi4xMjEiLCJhaWQiOiIwIiwiaG9zdCI6InBlbGFuZy5vcmciLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJAUmF5YW5fQ29uZmlnIDE1NyIsInNjeSI6ImF1dG8iLCJzbmkiOiJwZWxhbmcub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=

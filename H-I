@@ -12,8 +12,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.109:8880?security=&fp=c
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.88.186:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2018
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.65:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2019
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.155:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2020
-vless://cb796646-d528-4b96-9984-86dbceed95ad@104.21.16.1:443?security=tls&sni=DD3A34A9.bPB1-1TS.PaGeS.DEV&fp=random&type=ws&path=/&host=DD3A34A9.bPB1-1TS.PaGeS.DEV&encryption=none#@Rayan_Config%2023
-vless://f2e486f9-1697-4be6-be59-6c4fb42c7a24@188.114.97.3:443?security=tls&sni=paS-kaLE-AGhA.pageS.deV&alpn=http/1.1&fp=randomized&type=ws&path=/Telegram@V2ray_Alpha/?ed%3D2560&host=pas-kale-agha.pages.dev&encryption=none#@Rayan_Config%2024
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.244:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2025
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.161:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2026
 vless://0cc9d390-42ee-461e-94ae-e4370883dc48@77.73.238.191:29505?security=&fp=chrome&type=ws&encryption=none#@Rayan_Config%2027
@@ -52,7 +50,6 @@ vless://ff84dbed-bbfb-42d8-b397-b0ec025fb570@104.21.93.146:443?security=tls&sni=
 vless://7e296434-2d17-48d3-928d-19eaa34aecb1@185.33.24.229:28495?security=reality&sni=dl.google.com&fp=chrome&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&sid=0ecc2c1392&type=tcp&encryption=none#@Rayan_Config%2068
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.249:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2070
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.122.221:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2071
-vless://Parsashonam-Bot-34@104.17.147.22:8080?security=&fp=chrome&type=ws&path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam?ed%3D2056//telegram---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN--MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN&host=Fi.Parsashonam.CfD.&encryption=none#@Rayan_Config%2073
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.188:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2078
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.250:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2080
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.26:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2081
@@ -69,12 +66,9 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.232.247.177:8880?security=&fp=ch
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.92:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2095
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.156:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2096
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.189:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2097
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.110.64:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2098
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.37.76:8880?security=&sni=/?BIA_TELEGRAM&alpn=http/1.1&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20100
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.104:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20101
 vless://0423f7a2-87bd-4302-95e2-c3c01881bdc7@104.26.6.89:2087?security=tls&sni=DdLxDxZc3.VeLiNtO.OrG&alpn=h3h2&fp=chrome&type=ws&path=/&host=DdLxDxZc3.VeLiNtO.OrG&encryption=none#@Rayan_Config%20103
-vless://a42343e4-c498-42b7-8361-c03a36e7a5fb@46.62.220.103:27802?security=tls&sni=offged.sahandconfig.ir&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=Smxhabwh&encryption=none#@Rayan_Config%20104
-vless://Parsashonam-Bot-34@104.17.147.22:8080?security=&fp=chrome&type=ws&path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam?ed%3D2056//telegram---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz&host=Fi.Parsashonam.CfD.&encryption=none#@Rayan_Config%20105
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.138.164.3:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20106
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.211:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20107
 vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@77.37.33.39:443?security=tls&sni=gb-021.shenzogmbh.com&alpn=h3h2&fp=chrome&type=ws&path=/api/v1&host=gb-021.shenzogmbh.com&encryption=none#@Rayan_Config%20108
@@ -133,16 +127,13 @@ vless://393044fb-755a-4623-965e-3ae4fe39d730@83.222.20.64:53299?security=&fp=chr
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.149:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20181
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@91.228.10.89:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20184
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.108:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20185
-vless://678a8311-6184-4a1f-a651-84be3cc82e37@45.45.218.166:21275?security=tls&sni=ula347.tiri-viri.com&fp=chrome&type=ws&path=/&host=ula347.tiri-viri.com&encryption=none#@Rayan_Config%20186
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.98:80?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20191
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.149:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20192
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.37.76:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20193
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.133.224:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20202
 vmess://eyJhZGQiOiI1Ny4xMjkuMjQuMTMwIiwiYWlkIjoiMCIsImhvc3QiOiJzZXJrYXQub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQFJheWFuX0NvbmZpZyAyMDMiLCJzY3kiOiJhdXRvIiwic25pIjoic2Vya2F0Lm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiI5MS4xMzQuOC4xMDIiLCJhaWQiOiIwIiwiaG9zdCI6InNlcmthdC5vcmciLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJAUmF5YW5fQ29uZmlnIDIwNCIsInNjeSI6ImF1dG8iLCJzbmkiOiJzZXJrYXQub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vmess://eyJhZGQiOiI1Ny4xMjkuNTkuMTk1IiwiYWlkIjoiMCIsImhvc3QiOiJrYW1wb25nLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkBSYXlhbl9Db25maWcgMjA1Iiwic2N5IjoiYXV0byIsInNuaSI6ImthbXBvbmcub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vmess://eyJhZGQiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiOGUzNGUxNzAtMTNhZS00ODkyLTlkMjAtMDU5NjJhY2M5Zjg0IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDU3OSIsInBzIjoiQFJheWFuX0NvbmZpZyAyMDgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-vmess://eyJhZGQiOiI5MS4xMzQuOC45MiIsImFpZCI6IjAiLCJob3N0IjoieWljaHVlbmcub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQFJheWFuX0NvbmZpZyAyMDkiLCJzY3kiOiJhdXRvIiwic25pIjoieWljaHVlbmcub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vmess://eyJhZGQiOiI5MS4xMzQuOC4xMDEiLCJhaWQiOiIwIiwiaG9zdCI6ImZhcGVuZy5vcmciLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJAUmF5YW5fQ29uZmlnIDIxMCIsInNjeSI6ImF1dG8iLCJzbmkiOiJmYXBlbmcub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vmess://eyJhZGQiOiI5MS4xMzQuOC4xMDAiLCJhaWQiOiIxIiwiaG9zdCI6ImthbXBvbmcub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQFJheWFuX0NvbmZpZyAyMTEiLCJzY3kiOiJhdXRvIiwic25pIjoia2FtcG9uZy5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vmess://eyJhZGQiOiI1Ny4xMjkuNjQuMTYzIiwiYWlkIjoiMCIsImhvc3QiOiJ5aWNodWVuZy5vcmciLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJAUmF5YW5fQ29uZmlnIDIxMiIsInNjeSI6ImF1dG8iLCJzbmkiOiJ5aWNodWVuZy5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==

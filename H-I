@@ -8,11 +8,9 @@ vless://7e296434-2d17-48d3-928d-19eaa34aecb1@45.15.140.38:28495?security=reality
 vless://0cc9d390-42ee-461e-94ae-e4370883dc48@77.73.238.191:29505?security=&fp=chrome&type=ws&encryption=none#@Rayan_Config%2027
 vless://f31f5fe0-0a42-436a-be94-437330801388@141.98.168.41:443?security=reality&sni=mirror.yandex.ru&fp=chrome&pbk=aHaFXlvmkeCV60wfe60DD9w00WE1euQfH6jtDq5iYkI&sid=7e44612b079459&type=tcp&flow=xtls-rprx-vision&encryption=none#@Rayan_Config%2028
 vless://f31f5fe0-0a42-436a-be94-437330801388@141.98.168.41:443?security=reality&sni=mirror.yandex.ru&fp=chrome&pbk=aHaFXlvmkeCV60wfe60DD9w00WE1euQfH6jtDq5iYkI&sid=7e44612b079459&spx=/telegram---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN--MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN&type=tcp&flow=xtls-rprx-vision&encryption=none#@Rayan_Config%2030
-vless://a02fd758-c58b-48a8-bfb3-2b451ab44bb5@162.159.44.75:443?security=tls&sni=638971674693810969.brussels-prmpl-aaaad.com&fp=chrome&type=ws&path=/fiedpnws&host=638971674693810969.brussels-prmpl-aaaad.com&encryption=none#@Rayan_Config%2036
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.239:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2044
 vless://401374e6-df77-41fb-f638-dad8184f175b@45.82.251.34:80?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2052
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.244:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2063
-vless://ff84dbed-bbfb-42d8-b397-b0ec025fb570@104.21.93.146:443?security=tls&sni=nodegcf.azurka.org&fp=chrome&type=ws&path=/ws&host=nodegcf.azurka.org&encryption=none#@Rayan_Config%2066
 vless://7e296434-2d17-48d3-928d-19eaa34aecb1@185.33.24.229:28495?security=reality&sni=dl.google.com&fp=chrome&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&sid=0ecc2c1392&type=tcp&encryption=none#@Rayan_Config%2068
 vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@104.26.6.89:443?security=tls&sni=gb-42123.shenzogmbh.com&alpn=h3h2&fp=chrome&type=ws&path=/api/v1&host=gb-42123.shenzogmbh.com&encryption=none#@Rayan_Config%2083
 vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@104.26.6.89:443?security=tls&sni=gb-021.shenzogmbh.com&alpn=h3h2&fp=chrome&type=ws&path=/api/v1&host=gb-021.shenzogmbh.com&encryption=none#@Rayan_Config%2084
@@ -23,9 +21,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.232.247.61:8880?security=&fp=chr
 vless://d48ba610-6ef1-475b-9d33-be2a0db96f87@62.60.157.37:443?security=reality&sni=st.ozone.ru&fp=chrome&pbk=jVZNjr5dXzki9VxDHWg_zsiUjSrplC0mnZrG8tuP_2c&sid=149adb1c3cb9ed11&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#@Rayan_Config%20111
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.194:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20116
 vless://e188a23f-f17a-4a61-8a48-aa83b3653f5d@104.26.6.89:2053?security=tls&sni=om4.omidsuccess.uk&allowInsecure=1&fp=chrome&type=ws&path=/containers/de&host=om4.omidsuccess.uk&encryption=none#@Rayan_Config%20119
-vless://a02fd758-c58b-48a8-bfb3-2b451ab44bb5@172.64.35.75:443?security=tls&sni=638971674693810969.brussels-prmpl-aaaad.com&fp=chrome&type=ws&path=/fiedpnws&host=638971674693810969.brussels-prmpl-aaaad.com&encryption=none#@Rayan_Config%20120
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.232.247.208:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20126
-vless://a02fd758-c58b-48a8-bfb3-2b451ab44bb5@108.162.195.75:443?security=tls&sni=638971674693810969.brussels-prmpl-aaaad.com&fp=chrome&type=ws&path=/fiedpnws&host=638971674693810969.brussels-prmpl-aaaad.com&encryption=none#@Rayan_Config%20127
 vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@104.26.6.89:443?security=tls&sni=gb-8981.shenzogmbh.com&alpn=h3h2&fp=chrome&type=ws&path=/api/v1&host=gb-8981.shenzogmbh.com&encryption=none#@Rayan_Config%20128
 vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@77.37.33.39:443?security=tls&sni=gb-8981.shenzogmbh.com&alpn=h3h2&fp=chrome&type=ws&path=/api/v1&host=gb-8981.shenzogmbh.com&encryption=none#@Rayan_Config%20133
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.232.247.186:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20137
